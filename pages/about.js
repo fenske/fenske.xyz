@@ -57,15 +57,15 @@ const About = () => {
             <Text color={secondaryTextColor[colorMode]} mb={4}>
               TBA
             </Text>
+
             <Link
               href="https://github.com/leerob/leerob.io"
               title="leerob"
               isExternal
               color={'gray.500'}
             >
-              The backbone of this site is a fork of
-              [leerob.io](https://github.com/leerob/leerob.io) created by
-              [@leeerob](https://twitter.com/leeerob).
+              The backbone of this site is a fork of leerob.io built by
+              @leeerob.
             </Link>
           </Flex>
         </Stack>
