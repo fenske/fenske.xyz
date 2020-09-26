@@ -86,7 +86,7 @@ export default (frontMatter) => {
             </Flex>
           </Flex>
           {children}
-          <Subscribe />
+
           <Box>
             <Link href={discussUrl(slug)} isExternal>
               {'Discuss on Twitter'}
