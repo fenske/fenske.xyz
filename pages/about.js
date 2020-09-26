@@ -63,7 +63,9 @@ const About = () => {
               isExternal
               color={'gray.500'}
             >
-              This site is forked from leerob.io
+              The backbone of this site is a fork of
+              [leerob.io](https://github.com/leerob/leerob.io) created by
+              [@leeerob](https://twitter.com/leeerob).
             </Link>
           </Flex>
         </Stack>
