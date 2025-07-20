@@ -29,12 +29,10 @@ const Index = () => {
           maxWidth="700px"
         >
           <Heading letterSpacing="tight" mb={2} as="h1" size="2xl">
-            Hi there, I'm Anton Fenske.
+            Anton Fenske
           </Heading>
           <Text color={secondaryTextColor[colorMode]}>
-            I'm a software engineer and an online entrepreneur. This is my
-            website where I share what I'm working on and what's happening in my
-            head.
+            Software enthusiast.
           </Text>
         </Flex>
         <Flex
@@ -44,12 +42,12 @@ const Index = () => {
           maxWidth="700px"
         >
           <Heading letterSpacing="tight" mb={4} size="xl" fontWeight={700}>
-            My work
+            Past projects
           </Heading>
           <ProjectCard
             title="DevSkills"
-            description="Efficient developer hiring that saves time."
-            href="https://devskills.co/"
+            description="(Acquired) Hire the best developers with best-in-class coding tests."
+            href="https://www.alvalabs.io/blog/alva-devskills-acquisition"
             icon="devskills"
           />
         </Flex>
